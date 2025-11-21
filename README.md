@@ -67,9 +67,6 @@ Place it here after downloading:
 pretrained_checkpoint/sam_hq_vit_l.pth
 ```
 
-Add your download link here:
-
-🔗 `<your-weight-link>`
 
 ---
 
